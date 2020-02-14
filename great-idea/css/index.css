@@ -77,7 +77,7 @@ header a {
 }
 
 header a:hover {
-	color: black;
+	color: crimson;
 	font-weight: bold;
 }
 

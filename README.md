@@ -6,6 +6,7 @@ Once you have finished the home page using flex box module, go build the service
 
 **Useful Resource: [CSS Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
 
+
 ## To Get Started
 
 * Fork the project to your GitHub account
@@ -14,6 +15,7 @@ Once you have finished the home page using flex box module, go build the service
 * Start on the objectives
 
 [Click this link to learn how to use git on this project](https://youtu.be/8UQYTQzzNYM)  
+
 
 ## Objectives
 
@@ -28,6 +30,7 @@ Once you have finished the home page using flex box module, go build the service
   * Wrap the great idea logo in an anchor tag and point the `href` to `index.html`
   
   **Remember, you should continue using box model properties this whole time.  Flexbox is only used for bigger layout pieces.  You will still need content width, padding, border, and margins to succeed.**
+
 
 ## Stretch Goals
 

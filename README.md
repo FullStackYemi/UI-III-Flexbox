@@ -6,6 +6,7 @@ Once you have finished the home page using flex box module, go build the service
 
 **Useful Resource: [CSS Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
 
+
 ## To Get Started
 
 * Fork the project to your GitHub account
@@ -14,6 +15,7 @@ Once you have finished the home page using flex box module, go build the service
 * Start on the objectives
 
 [Click this link to learn how to use git on this project](https://youtu.be/8UQYTQzzNYM)  
+
 
 ## Objectives
 
@@ -29,7 +31,8 @@ Once you have finished the home page using flex box module, go build the service
   
   **Remember, you should continue using box model properties this whole time.  Flexbox is only used for bigger layout pieces.  You will still need content width, padding, border, and margins to succeed.**
 
+
 ## Stretch Goals
 
 * [ ] Create another page based on one of the navigation items in addition to services.  Try to create a layout that follows the patterns of the first two designs but with your own creative twist.  Use lorem ipsum text for all your content.
-* [ ] Introduce media queries into your services page to create a mobile view that stacks all the boxes on top of each other on phone but looks like the layout file on desktop.
+* [ ] Introduce media queries into your services page to create a mobile view that stacks all the boxes on top of each other on phone but looks like the layout file on desktop. 
